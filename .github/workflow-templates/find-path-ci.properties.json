@@ -1,0 +1,13 @@
+{
+  "name": "Find Path CI Workflow",
+  "description": "Find Path CI workflow template.",
+  "iconName": "ice-cream",
+  "categories": [
+    "Java"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
